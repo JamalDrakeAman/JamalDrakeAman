@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jamal</h1>
-<h3 align="center">A passionate frontend developer from Mannheim</h3>
+<h1 align="center">Hey 👋, I'm Jamal</h1>
+<h3 align="center">Frontend Developer - Mannheim</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
