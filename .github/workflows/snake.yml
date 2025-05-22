@@ -3,23 +3,29 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: JamalDrakeAman
           outputs: output/snake.svg
-        
-      - name: Push Changes
+
+      - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add output/snake.svg
-          git commit -m "Update snake animation"
+          git commit -m "Update snake animation [skip ci]" || echo "No changes to commit"
           git push
