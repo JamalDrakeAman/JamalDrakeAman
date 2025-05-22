@@ -1,9 +1,13 @@
 <h1 align="center">✨ Hi, I'm Jamal ✨</h1>
 <h3 align="center">Frontend Developer · Mannheim</h3>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Creating+interfaces+users+love+to+interact+with.;Combining+UI%2FUX+intuition+with+performance-driven+code.;From+pixels+to+production+—+frontend+done+right." alt="Typing Animation" />
+</div>
+
+<!-- 🎯 GIF direkt unter dem Intro -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
 </div>
 
 ---
@@ -69,18 +73,13 @@
   <a href="https://jamalaman.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-<a href="https://discord.com/users/1076986404208398427" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+  <a href="https://discord.com/users/1076986404208398427" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
-
 ![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake-dark.svg)
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
 ⭐️ From [Jamal](https://github.com/jamaldrakeaman)
-
-
