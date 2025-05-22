@@ -73,7 +73,7 @@
 
 ---
 
-![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/github-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/github-snake.svg?refresh=1)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
