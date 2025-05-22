@@ -71,7 +71,6 @@
 </a>
 </p>
 
----
 
 ![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake-dark.svg)
 
