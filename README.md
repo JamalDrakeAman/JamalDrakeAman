@@ -25,6 +25,7 @@
 
 <h3>🎨 Styling</h3>
 <p>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" title="Sass"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
