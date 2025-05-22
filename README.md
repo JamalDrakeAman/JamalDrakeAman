@@ -73,13 +73,8 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/snake.svg">
-  </picture>
-</p>
+![Snake](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg?ts=$(date +%s))
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
