@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm Jamal ✨</h1>
-<h3 align="center">Frontend Developer · Mannheim</h3>
+<h2 align="center">Frontend Developer · Mannheim</h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Creating+interfaces+users+love+to+interact+with.;Combining+UI%2FUX+intuition+with+performance-driven+code.;From+pixels+to+production+—+frontend+done+right." alt="Typing Animation" />
