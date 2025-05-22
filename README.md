@@ -73,9 +73,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg" width="800" alt="Snake Game Animation"/>
-</p>
+![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg)
 
 
 
