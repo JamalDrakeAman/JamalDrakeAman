@@ -73,9 +73,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/output/github-snake.svg" alt="Snake animation" />
-</p>
+![Snake](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg?refresh=$(date +%s))
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 
