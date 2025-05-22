@@ -73,7 +73,7 @@
 
 ---
 
-![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg)
+![Snake Game](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake-dark.svg)
 
 
 
