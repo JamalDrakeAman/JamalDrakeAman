@@ -73,7 +73,10 @@
 
 ---
 
-![Snake](https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg?ts=$(date +%s))
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JamalDrakeAman/JamalDrakeAman/main/output/snake.svg" width="800" alt="Snake Game Animation"/>
+</p>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
